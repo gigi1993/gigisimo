@@ -10,6 +10,7 @@ namespace Exercise_19
 		{
 			bool download;
 			string uri = "http://upload.wikimedia.org/wikipedia/commons/8/83/Alice-white-rabbit.jpg";
+			Console.WriteLine("This program download and image from the web");
 			using(WebClient webClient = new WebClient())
 			{
 				try
