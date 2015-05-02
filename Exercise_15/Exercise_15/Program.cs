@@ -17,10 +17,9 @@ namespace Exercise_15
 		public static void Main (string[] args)
 		{
 			index_generator = new Random();
-			string phrase = ChooseRandomly(laudatory_phrases);
-			string story = ChooseRandomly(laudatory_story);
-			string name = ChooseRandomly(first_name);
-			string surname = ChooseRandomly(second_name);
+			string sentence = ChooseRandomly(laudatory_phrases);
+			string history = ChooseRandomly(laudatory_story);
+			string fullname = ChooseRandomly(second_name);
 			string town = ChooseRandomly(city);
 
 			Console.WriteLine("{0} {1} -- {2} {3}, {4}", phrase, story, name, surname, town);
