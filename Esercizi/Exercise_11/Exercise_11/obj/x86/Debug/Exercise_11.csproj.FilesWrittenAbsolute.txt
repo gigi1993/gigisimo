@@ -1,0 +1,5 @@
+/Users/luigituttobene/Projects/Exercise_11/Exercise_11/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/luigituttobene/Projects/Exercise_11/Exercise_11/bin/Debug/Exercise_11.exe.mdb
+/Users/luigituttobene/Projects/Exercise_11/Exercise_11/bin/Debug/Exercise_11.exe
+/Users/luigituttobene/Projects/Exercise_11/Exercise_11/obj/x86/Debug/Exercise_11.exe
+/Users/luigituttobene/Projects/Exercise_11/Exercise_11/obj/x86/Debug/Exercise_11.exe.mdb
