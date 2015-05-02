@@ -1,0 +1,5 @@
+/Users/Simone/Projects/Exercise_26/Exercise_26/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Simone/Projects/Exercise_26/Exercise_26/bin/Debug/Exercise_26.exe.mdb
+/Users/Simone/Projects/Exercise_26/Exercise_26/bin/Debug/Exercise_26.exe
+/Users/Simone/Projects/Exercise_26/Exercise_26/obj/x86/Debug/Exercise_26.exe
+/Users/Simone/Projects/Exercise_26/Exercise_26/obj/x86/Debug/Exercise_26.exe.mdb
